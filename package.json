@@ -1,0 +1,12 @@
+{
+  "name": "in-temporal",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "author": "Alessandrovaru",
+  "license": "MIT"
+}
